@@ -1,0 +1,2342 @@
+{
+    "created": "2023-12-18T13:53:04.141Z",
+    "count": 1374,
+    "offset": 0,
+    "recordings": [
+        {
+            "id": "dfbf09b6-afa8-4131-bb37-2817689319e3",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 200386,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Hot Apple Pie",
+                    "artist": {
+                        "id": "d950f4f0-1fce-41d9-9dc6-9570b287bcd7",
+                        "name": "Hot Apple Pie",
+                        "sort-name": "Hot Apple Pie"
+                    }
+                }
+            ],
+            "first-release-date": "2005-03-10",
+            "releases": [
+                {
+                    "id": "04276dca-eda2-47ef-a13f-3e047e3f4c92",
+                    "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+                    "count": 1,
+                    "title": "Promo Only: Country Radio, April 2005",
+                    "status": "Promotion",
+                    "artist-credit": [
+                        {
+                            "name": "Various Artists",
+                            "artist": {
+                                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                                "name": "Various Artists",
+                                "sort-name": "Various Artists",
+                                "disambiguation": "add compilations to this artist"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "f62b1708-d231-3b4a-9624-7e5403403121",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Promo Only: Country Radio, April 2005",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "2005-03-10",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2005-03-10",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 17,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "7d3f9985-a5b4-338a-a68b-59f7c32ce0b3",
+                                    "number": "5",
+                                    "title": "Hillbillies",
+                                    "length": 200386
+                                }
+                            ],
+                            "track-count": 17,
+                            "track-offset": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f6b2f6ed-1caf-4485-8f0c-b23fc035688f",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 255933,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Hot Apple Pie",
+                    "artist": {
+                        "id": "d950f4f0-1fce-41d9-9dc6-9570b287bcd7",
+                        "name": "Hot Apple Pie",
+                        "sort-name": "Hot Apple Pie"
+                    }
+                }
+            ],
+            "first-release-date": "2005",
+            "releases": [
+                {
+                    "id": "dcbbfa9a-62ef-4df9-a228-a7e54ab03e12",
+                    "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+                    "count": 1,
+                    "title": "Hillbillies",
+                    "status": "Promotion",
+                    "release-group": {
+                        "id": "73673a24-26bb-3c0a-a910-bbebd68cbb9e",
+                        "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+                        "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+                        "title": "Hillbillies",
+                        "primary-type": "Single"
+                    },
+                    "date": "2005",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2005",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 3,
+                    "media": [
+                        {
+                            "position": 1,
+                            "track": [
+                                {
+                                    "id": "9a00bc0a-41c9-312a-9b34-d0afee4574ab",
+                                    "number": "3",
+                                    "title": "Hillbillies",
+                                    "length": 255933
+                                }
+                            ],
+                            "track-count": 3,
+                            "track-offset": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3a821f31-390c-4112-b670-ed0d45a546de",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 272000,
+            "video": null,
+            "artist-credit": [
+                {
+                    "joinphrase": " feat. ",
+                    "name": "Lumberjacks",
+                    "artist": {
+                        "id": "2ffde475-45ee-4c3c-a1f1-4f0a5cc7bbb6",
+                        "name": "Lumberjacks",
+                        "sort-name": "Lumberjacks",
+                        "disambiguation": "T-Mo and Khujo of the Goodie Mob",
+                        "aliases": [
+                            {
+                                "sort-name": "Goodie Mob Presents the Lumberjacks",
+                                "name": "Goodie Mob Presents the Lumberjacks",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Witchdoctor",
+                    "artist": {
+                        "id": "98498cf7-7f6d-49bf-8d3c-d8496984b14f",
+                        "name": "Witchdoctor",
+                        "sort-name": "Witchdoctor",
+                        "disambiguation": "US rapper"
+                    }
+                }
+            ],
+            "first-release-date": "2005-01-05",
+            "releases": [
+                {
+                    "id": "7f4e1fb6-1b13-4235-898e-0923ab30b22a",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Livin' Life as Lumberjacks",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Lumberjacks",
+                            "artist": {
+                                "id": "2ffde475-45ee-4c3c-a1f1-4f0a5cc7bbb6",
+                                "name": "Lumberjacks",
+                                "sort-name": "Lumberjacks",
+                                "disambiguation": "T-Mo and Khujo of the Goodie Mob"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "d2c9900c-b541-3965-86bc-972906a3bc52",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Livin' Life as Lumberjacks",
+                        "primary-type": "Album"
+                    },
+                    "date": "2005-01-05",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2005-01-05",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 13,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "Digital Media",
+                            "track": [
+                                {
+                                    "id": "85c13e02-1248-35b7-95c6-dd434a37ffab",
+                                    "number": "10",
+                                    "title": "Hillbillies",
+                                    "length": 272000
+                                }
+                            ],
+                            "track-count": 13,
+                            "track-offset": 9
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "7999493e-8a12-4a7b-bd53-aead05cc5c63",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 144026,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Richard Pryor",
+                    "artist": {
+                        "id": "ba503a17-848c-4773-aa58-208f4163124f",
+                        "name": "Richard Pryor",
+                        "sort-name": "Pryor, Richard",
+                        "aliases": [
+                            {
+                                "sort-name": "Jross1",
+                                "name": "Jross1",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "first-release-date": "1976",
+            "releases": [
+                {
+                    "id": "a23e3283-67e4-4c91-9f74-d85889cff020",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Are You Serious???",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Richard Pryor",
+                            "artist": {
+                                "id": "ba503a17-848c-4773-aa58-208f4163124f",
+                                "name": "Richard Pryor",
+                                "sort-name": "Pryor, Richard"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "1df18c6a-031d-386b-9687-f29083e18b71",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Are You Serious???",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "1976",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "1976",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 18,
+                    "media": [
+                        {
+                            "position": 1,
+                            "track": [
+                                {
+                                    "id": "3add2fdd-700a-3c57-b6d8-bccc87331673",
+                                    "number": "12",
+                                    "title": "Hillbillies",
+                                    "length": 144026
+                                }
+                            ],
+                            "track-count": 18,
+                            "track-offset": 11
+                        }
+                    ]
+                },
+                {
+                    "id": "b92b7267-9751-3bca-803f-ff4e8940b22f",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Are You Serious???",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Richard Pryor",
+                            "artist": {
+                                "id": "ba503a17-848c-4773-aa58-208f4163124f",
+                                "name": "Richard Pryor",
+                                "sort-name": "Pryor, Richard"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "1df18c6a-031d-386b-9687-f29083e18b71",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Are You Serious???",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "1995-05-23",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "1995-05-23",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 18,
+                    "media": [
+                        {
+                            "position": 1,
+                            "track": [
+                                {
+                                    "id": "f12c3ad4-0ebd-396a-9ed1-57da0576d30c",
+                                    "number": "12",
+                                    "title": "Hillbillies",
+                                    "length": 144026
+                                }
+                            ],
+                            "track-count": 18,
+                            "track-offset": 11
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cdcd86a0-7ad5-4b8c-b838-21dfed2a8b42",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 847000,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Steve Kimock Band",
+                    "artist": {
+                        "id": "76e1bc53-ec85-4266-8b8b-9fde2fee92da",
+                        "name": "Steve Kimock Band",
+                        "sort-name": "Kimock, Steve Band"
+                    }
+                }
+            ],
+            "first-release-date": "2002",
+            "releases": [
+                {
+                    "id": "36fd01b2-ac40-4404-9192-f6dfe4e43875",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Live in Colorado, Volume 1",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "1ef5f9ce-9d89-3764-8291-2ee9fbbfa8e1",
+                        "title": "Live in Colorado, Volume 1",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "2002",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2002",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 5,
+                    "media": [
+                        {
+                            "position": 1,
+                            "track": [
+                                {
+                                    "id": "7f530dde-d1af-3e55-ab08-492e295858bc",
+                                    "number": "4",
+                                    "title": "Hillbillies",
+                                    "length": 847000
+                                }
+                            ],
+                            "track-count": 5,
+                            "track-offset": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c8c7a58f-5f13-4e08-b3df-b791844b3537",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 588680,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "KVHW",
+                    "artist": {
+                        "id": "b07354af-e6d0-4cf2-af83-a1679606f34a",
+                        "name": "KVHW",
+                        "sort-name": "KVHW"
+                    }
+                }
+            ],
+            "releases": [
+                {
+                    "id": "39cbbbda-9326-4aee-ac96-e0778d7cbfd9",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "KVHW Live in Concert 9/28/98 and 10/24/98",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "b7ce422c-4505-31fc-9f45-2f591fa2e1e4",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "KVHW Live in Concert 9/28/98 and 10/24/98",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "track-count": 6,
+                    "media": [
+                        {
+                            "position": 1,
+                            "track": [
+                                {
+                                    "id": "e85bfd2a-6d33-3481-920b-3848da55d6e8",
+                                    "number": "3",
+                                    "title": "Hillbillies",
+                                    "length": 588680
+                                }
+                            ],
+                            "track-count": 6,
+                            "track-offset": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "69ab32ab-b614-42ee-85d2-c92cfffe5a86",
+            "score": 100,
+            "title": "Hillbillies",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Hot Apple Pie Hillbillies",
+                    "artist": {
+                        "id": "c7369516-5822-4469-bb62-eba0496a5baf",
+                        "name": "Hot Apple Pie Hillbillies",
+                        "sort-name": "Hot Apple Pie Hillbillies"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "53470b39-acce-4aaa-b2aa-16c5f1589318",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 200333,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Hot Apple Pie",
+                    "artist": {
+                        "id": "d950f4f0-1fce-41d9-9dc6-9570b287bcd7",
+                        "name": "Hot Apple Pie",
+                        "sort-name": "Hot Apple Pie"
+                    }
+                }
+            ],
+            "first-release-date": "2005-06-28",
+            "releases": [
+                {
+                    "id": "694e7466-6202-4045-a9e7-4c2f04e2b467",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Hot Apple Pie",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "b7aa2ba7-32c9-3df9-a659-6fa550534594",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Hot Apple Pie",
+                        "primary-type": "Album"
+                    },
+                    "date": "2005-06-28",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2005-06-28",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 13,
+                    "media": [
+                        {
+                            "position": 1,
+                            "track": [
+                                {
+                                    "id": "f2269959-50f2-350f-b5a3-610619b0fe94",
+                                    "number": "1",
+                                    "title": "Hillbillies",
+                                    "length": 200333
+                                }
+                            ],
+                            "track-count": 13,
+                            "track-offset": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "625fbc18-a335-4eb9-92df-05b90b905064",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 241000,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Six Notes",
+                    "artist": {
+                        "id": "85defd01-6d05-4677-98dc-4871392266fb",
+                        "name": "Six Notes",
+                        "sort-name": "Six Notes",
+                        "disambiguation": "from Scotland, UK",
+                        "aliases": [
+                            {
+                                "sort-name": "6 Notes",
+                                "name": "6 Notes",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "first-release-date": "2011-04-12",
+            "releases": [
+                {
+                    "id": "a5ac9af8-e38e-4c8c-8685-be3e22ea2dc8",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Six Notes Part 4",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Six Notes",
+                            "artist": {
+                                "id": "85defd01-6d05-4677-98dc-4871392266fb",
+                                "name": "Six Notes",
+                                "sort-name": "Six Notes",
+                                "disambiguation": "from Scotland, UK"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "5a354a8b-8e55-491c-a2f2-a3bdd7b9cee3",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Six Notes Part 4",
+                        "primary-type": "Album"
+                    },
+                    "date": "2011-04-12",
+                    "country": "XW",
+                    "release-events": [
+                        {
+                            "date": "2011-04-12",
+                            "area": {
+                                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                                "name": "[Worldwide]",
+                                "sort-name": "[Worldwide]",
+                                "iso-3166-1-codes": [
+                                    "XW"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 16,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "Digital Media",
+                            "track": [
+                                {
+                                    "id": "d3ade9f4-480d-3b0e-9a28-4b53cd9804e5",
+                                    "number": "13",
+                                    "title": "Hillbillies",
+                                    "length": 241000
+                                }
+                            ],
+                            "track-count": 16,
+                            "track-offset": 12
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "25214d7e-24d9-46ad-9d2f-04d460fed224",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 202000,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Hot Apple Pie",
+                    "artist": {
+                        "id": "d950f4f0-1fce-41d9-9dc6-9570b287bcd7",
+                        "name": "Hot Apple Pie",
+                        "sort-name": "Hot Apple Pie"
+                    }
+                }
+            ],
+            "first-release-date": "2005-11-02",
+            "releases": [
+                {
+                    "id": "091d41b3-65e4-4178-b9fd-45abf5e29b09",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Country Hits 2006",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Various Artists",
+                            "artist": {
+                                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                                "name": "Various Artists",
+                                "sort-name": "Various Artists",
+                                "disambiguation": "add compilations to this artist"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "7e9d8c9a-fea3-3a7d-824b-8dd4ad06f1cb",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Country Hits 2006",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "2005-11-02",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2005-11-02",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 20,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "f2e66b5d-e072-339c-80c1-78164cbd2646",
+                                    "number": "8",
+                                    "title": "Hillbillies",
+                                    "length": 202000
+                                }
+                            ],
+                            "track-count": 20,
+                            "track-offset": 7
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "country"
+                }
+            ]
+        },
+        {
+            "id": "d13ee227-9729-49cc-abc6-292e1b756d4d",
+            "score": 100,
+            "title": "Hillbillies",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Jad Fair",
+                    "artist": {
+                        "id": "be4a8e65-a7ba-474c-989b-ed16e51c1a39",
+                        "name": "Jad Fair",
+                        "sort-name": "Fair, Jad"
+                    }
+                }
+            ],
+            "first-release-date": "1989",
+            "releases": [
+                {
+                    "id": "2a33260a-317f-42de-9af1-3d3f6fb3d522",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 2,
+                    "title": "Great Expectations",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "f7833240-36d7-4bc6-9650-b73b8edb5b90",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Great Expectations",
+                        "primary-type": "Album"
+                    },
+                    "date": "1989",
+                    "country": "DE",
+                    "release-events": [
+                        {
+                            "date": "1989",
+                            "area": {
+                                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                                "name": "Germany",
+                                "sort-name": "Germany",
+                                "iso-3166-1-codes": [
+                                    "DE"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 76,
+                    "media": [
+                        {
+                            "position": 2,
+                            "format": "12\" Vinyl",
+                            "track": [
+                                {
+                                    "id": "668f26ac-b0c4-3df9-b389-deba0c446e25",
+                                    "number": "D11",
+                                    "title": "Hillbillies"
+                                }
+                            ],
+                            "track-count": 38,
+                            "track-offset": 28
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dc41283b-4142-4309-8d77-84b21fb22e03",
+            "score": 100,
+            "title": "Hillbillies",
+            "length": 130853,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Ljova",
+                    "artist": {
+                        "id": "f24add69-d321-4507-b029-9001889267c3",
+                        "name": "Ljova",
+                        "sort-name": "Ljova"
+                    }
+                }
+            ],
+            "first-release-date": "2011-12-15",
+            "releases": [
+                {
+                    "id": "a2b9368e-372b-43c9-83a1-be576a871813",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Lost in Kino",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "378d2c9b-8240-49db-8153-f0c343477f75",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Lost in Kino",
+                        "primary-type": "Album"
+                    },
+                    "date": "2011-12-15",
+                    "country": "XW",
+                    "release-events": [
+                        {
+                            "date": "2011-12-15",
+                            "area": {
+                                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                                "name": "[Worldwide]",
+                                "sort-name": "[Worldwide]",
+                                "iso-3166-1-codes": [
+                                    "XW"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 24,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "Digital Media",
+                            "track": [
+                                {
+                                    "id": "f07ce8fe-12e8-4391-a0ff-da9d89634fed",
+                                    "number": "3",
+                                    "title": "Hillbillies",
+                                    "length": 130853
+                                }
+                            ],
+                            "track-count": 24,
+                            "track-offset": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "86106e9e-404e-4ace-a3ec-1ff6eb5fdc73",
+            "score": 86,
+            "title": "Beverly Hillbillies",
+            "length": 52093,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "John Valby",
+                    "artist": {
+                        "id": "2fa4a321-d1cf-4ec0-89c8-27cec4b87fc2",
+                        "name": "John Valby",
+                        "sort-name": "Valby, John"
+                    }
+                }
+            ],
+            "first-release-date": "2005",
+            "releases": [
+                {
+                    "id": "518c797f-62be-4989-b0e1-1c94937586da",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Scratch N' Sniff",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "fc9bb4cc-80cb-3298-9d8d-fcbf04ddfb89",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Scratch N' Sniff",
+                        "primary-type": "Album"
+                    },
+                    "track-count": 16,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "2f8d7018-e4c5-3aff-a91b-4a377847f20a",
+                                    "number": "11",
+                                    "title": "Beverly Hillbillies",
+                                    "length": 52093
+                                }
+                            ],
+                            "track-count": 16,
+                            "track-offset": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "81f89ce7-ce0b-48fa-a220-d612ba5bfe99",
+            "score": 86,
+            "title": "Beverly Hillbillies",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Faron Young",
+                    "artist": {
+                        "id": "5799b78e-a103-427b-8a1d-0bfeaddbb0c0",
+                        "name": "Faron Young",
+                        "sort-name": "Young, Faron",
+                        "aliases": [
+                            {
+                                "sort-name": "Faronyoung",
+                                "name": "Faronyoung",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Young Faron",
+                                "name": "Young Faron",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Farron Young",
+                                "name": "Farron Young",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "first-release-date": "1997-09-08",
+            "releases": [
+                {
+                    "id": "1a4c2d5a-2c00-411e-8013-92a76492bb5e",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "20 Greatest Hits",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Faron Young",
+                            "artist": {
+                                "id": "5799b78e-a103-427b-8a1d-0bfeaddbb0c0",
+                                "name": "Faron Young",
+                                "sort-name": "Young, Faron"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "d08ffa9a-3aee-34ac-968e-3fcc352934b9",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "20 Greatest Hits",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "track-count": 20,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "ffa31114-3b62-3056-8c11-67a02ccf8a8f",
+                                    "number": "6",
+                                    "title": "Beverly Hillbillies"
+                                }
+                            ],
+                            "track-count": 20,
+                            "track-offset": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "8617a123-a8c2-440d-b620-5063fc33d995",
+            "score": 86,
+            "title": "Muswell Hillbillies",
+            "length": 200066,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "The Kinks",
+                    "artist": {
+                        "id": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                        "name": "The Kinks",
+                        "sort-name": "Kinks, The",
+                        "aliases": [
+                            {
+                                "sort-name": "Kinks",
+                                "name": "Kinks",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Muswell Ravens",
+                                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                "name": "Muswell Ravens",
+                                "locale": null,
+                                "type": "Artist name",
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Ravens, The",
+                                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                "name": "The Ravens",
+                                "locale": null,
+                                "type": "Artist name",
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Bollweevils, The",
+                                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                "name": "The Bollweevils",
+                                "locale": null,
+                                "type": "Artist name",
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Boll‐Weevils, The",
+                                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                "name": "The Boll‐Weevils",
+                                "locale": null,
+                                "type": "Artist name",
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "first-release-date": "1994-10-03",
+            "releases": [
+                {
+                    "id": "9285c968-bbcc-43c6-988a-be3d14ab8194",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 2,
+                    "title": "To the Bone",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "The Kinks",
+                            "artist": {
+                                "id": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                                "name": "The Kinks",
+                                "sort-name": "Kinks, The"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "a946c82b-8549-30f1-a82e-37a8bf07b0d1",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "To the Bone",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "1996-10-15",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "1996-10-15",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 29,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "439110ff-16c7-3583-9f54-2427ce0c4d40",
+                                    "number": "6",
+                                    "title": "Muswell Hillbillies",
+                                    "length": 200066
+                                }
+                            ],
+                            "track-count": 12,
+                            "track-offset": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "254cff96-882d-3499-b48e-1bb82696f613",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 2,
+                    "title": "To the Bone",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "The Kinks",
+                            "artist": {
+                                "id": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                                "name": "The Kinks",
+                                "sort-name": "Kinks, The"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "a946c82b-8549-30f1-a82e-37a8bf07b0d1",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "To the Bone",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "1997-03-03",
+                    "country": "GB",
+                    "release-events": [
+                        {
+                            "date": "1997-03-03",
+                            "area": {
+                                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                                "name": "United Kingdom",
+                                "sort-name": "United Kingdom",
+                                "iso-3166-1-codes": [
+                                    "GB"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 29,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "32dc4712-4563-3bbe-99bc-95c177c0175a",
+                                    "number": "6",
+                                    "title": "Muswell Hillbillies",
+                                    "length": 200066
+                                }
+                            ],
+                            "track-count": 12,
+                            "track-offset": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "9b86c8b1-4b7a-3803-aa2f-dc215ad96f3a",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "To the Bone",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "The Kinks",
+                            "artist": {
+                                "id": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                                "name": "The Kinks",
+                                "sort-name": "Kinks, The"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "a946c82b-8549-30f1-a82e-37a8bf07b0d1",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "To the Bone",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "1994-10-03",
+                    "country": "GB",
+                    "release-events": [
+                        {
+                            "date": "1994-10-03",
+                            "area": {
+                                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                                "name": "United Kingdom",
+                                "sort-name": "United Kingdom",
+                                "iso-3166-1-codes": [
+                                    "GB"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 13,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "83dad13c-4803-379c-875e-2bbf6d84b9cb",
+                                    "number": "7",
+                                    "title": "Muswell Hillbillies",
+                                    "length": 200760
+                                }
+                            ],
+                            "track-count": 13,
+                            "track-offset": 6
+                        }
+                    ]
+                },
+                {
+                    "id": "d0b35326-9f6a-4289-922a-fefe031f6c65",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "To the Bone",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "The Kinks",
+                            "artist": {
+                                "id": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+                                "name": "The Kinks",
+                                "sort-name": "Kinks, The"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "a946c82b-8549-30f1-a82e-37a8bf07b0d1",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "To the Bone",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "1994-10-03",
+                    "country": "GB",
+                    "release-events": [
+                        {
+                            "date": "1994-10-03",
+                            "area": {
+                                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                                "name": "United Kingdom",
+                                "sort-name": "United Kingdom",
+                                "iso-3166-1-codes": [
+                                    "GB"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 13,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "12\" Vinyl",
+                            "track": [
+                                {
+                                    "id": "ef70b5b4-0e28-3ddd-a343-f2429048b05d",
+                                    "number": "B1",
+                                    "title": "Muswell Hillbillies",
+                                    "length": 200760
+                                }
+                            ],
+                            "track-count": 13,
+                            "track-offset": 6
+                        }
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "rock"
+                },
+                {
+                    "count": 1,
+                    "name": "pop"
+                },
+                {
+                    "count": 3,
+                    "name": "classic rock"
+                },
+                {
+                    "count": 1,
+                    "name": "british invasion"
+                }
+            ]
+        },
+        {
+            "id": "51d34806-6708-4624-9eb3-81f9c00805cf",
+            "score": 86,
+            "title": "Beverly Hillbillies",
+            "length": 100373,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Butt Trumpet",
+                    "artist": {
+                        "id": "9a69b95e-7886-40c5-872b-19a2a8b4c668",
+                        "name": "Butt Trumpet",
+                        "sort-name": "Butt Trumpet"
+                    }
+                }
+            ],
+            "first-release-date": "1997-04-29",
+            "releases": [
+                {
+                    "id": "8c50d4f1-89ae-4f55-a29b-15686fb1b366",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Show & Tell: A Stormy Remembrance of TV Theme Songs",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Various Artists",
+                            "artist": {
+                                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                                "name": "Various Artists",
+                                "sort-name": "Various Artists",
+                                "disambiguation": "add compilations to this artist"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "5541dbec-6c85-328c-bc4d-c85a249eb2df",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Show & Tell: A Stormy Remembrance of TV Theme Songs",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "1997-04-29",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "1997-04-29",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 35,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "d63e5fe2-1f19-3e91-ba3f-86bc6d32fac0",
+                                    "number": "33",
+                                    "title": "Beverly Hillbillies",
+                                    "length": 100373
+                                }
+                            ],
+                            "track-count": 35,
+                            "track-offset": 32
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cde66c60-01f8-403c-a42c-4c25e137485c",
+            "score": 86,
+            "title": "Melbourne Hillbillies",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Gore Beyond Necropsy",
+                    "artist": {
+                        "id": "459726c8-1352-49f5-a484-1df159003155",
+                        "name": "Gore Beyond Necropsy",
+                        "sort-name": "Gore Beyond Necropsy",
+                        "aliases": [
+                            {
+                                "sort-name": "GxBxNx",
+                                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                "name": "GxBxNx",
+                                "locale": null,
+                                "type": "Artist name",
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "first-release-date": "1999",
+            "releases": [
+                {
+                    "id": "c03b8301-c04b-4da6-bda7-0db4ac2005a5",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "[untitled] / Nothing but Enemies",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "joinphrase": " / ",
+                            "name": "Gore Beyond Necropsy",
+                            "artist": {
+                                "id": "459726c8-1352-49f5-a484-1df159003155",
+                                "name": "Gore Beyond Necropsy",
+                                "sort-name": "Gore Beyond Necropsy"
+                            }
+                        },
+                        {
+                            "name": "Warsore",
+                            "artist": {
+                                "id": "2b4f45b3-6e15-41df-bce8-11eca2a7aae2",
+                                "name": "Warsore",
+                                "sort-name": "Warsore",
+                                "disambiguation": "Australian grindcore"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "c20e4012-ef92-3f2d-81e5-7d1ab54fa294",
+                        "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                        "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+                        "title": "[untitled] / Nothing but Enemies",
+                        "primary-type": "EP"
+                    },
+                    "date": "1999",
+                    "country": "GB",
+                    "release-events": [
+                        {
+                            "date": "1999",
+                            "area": {
+                                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                                "name": "United Kingdom",
+                                "sort-name": "United Kingdom",
+                                "iso-3166-1-codes": [
+                                    "GB"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 15,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "7\" Vinyl",
+                            "track": [
+                                {
+                                    "id": "fb0669d5-b0c0-3fa6-8d90-192ecca65a30",
+                                    "number": "A2",
+                                    "title": "Melbourne Hillbillies"
+                                }
+                            ],
+                            "track-count": 15,
+                            "track-offset": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1213b9bf-8027-4504-8aa3-0e4e05877804",
+            "score": 86,
+            "title": "Capital Hillbillies",
+            "length": 258000,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "The Crows",
+                    "artist": {
+                        "id": "23907c47-7c31-412e-811c-5de45a79b856",
+                        "name": "The Crows",
+                        "sort-name": "Crows, The",
+                        "disambiguation": "USA punk band"
+                    }
+                }
+            ],
+            "first-release-date": "1990",
+            "releases": [
+                {
+                    "id": "725952e8-5fb6-41bf-b96e-6c7b0e3ba56e",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Dope, Guns ’n Fucking in the Streets, Volumes 4–7",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Various Artists",
+                            "artist": {
+                                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                                "name": "Various Artists",
+                                "sort-name": "Various Artists",
+                                "disambiguation": "add compilations to this artist"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "ee5d2f02-8793-3b7d-a08e-d40a1f21db5b",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Dope, Guns ’n Fucking in the Streets, Volumes 4–7",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "1990",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "1990",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 16,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "bcfdec9f-a3af-415a-80d0-709da0df2713",
+                                    "number": "6",
+                                    "title": "Capital Hillbillies",
+                                    "length": 256000
+                                }
+                            ],
+                            "track-count": 16,
+                            "track-offset": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "60551192-811c-465d-b3ef-3e94dae16a7f",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Dope, Guns ’n Fucking in the Streets, Volumes 4–7",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Various Artists",
+                            "artist": {
+                                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                                "name": "Various Artists",
+                                "sort-name": "Various Artists",
+                                "disambiguation": "add compilations to this artist"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "ee5d2f02-8793-3b7d-a08e-d40a1f21db5b",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Dope, Guns ’n Fucking in the Streets, Volumes 4–7",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "1992",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "1992",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 16,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "2f28ab6c-fbad-3704-b6bb-f58a4aa6636b",
+                                    "number": "6",
+                                    "title": "Capital Hillbillies",
+                                    "length": 258200
+                                }
+                            ],
+                            "track-count": 16,
+                            "track-offset": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "69f7d9ad-d4f0-4caf-b29a-73f2b04d0147",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 2,
+                    "title": "Dope-Guns-’n-Fucking in the Streets: 1988–1998, Volume 1–11",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Various Artists",
+                            "artist": {
+                                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                                "name": "Various Artists",
+                                "sort-name": "Various Artists",
+                                "disambiguation": "add compilations to this artist"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "9a3a92f0-06cb-485e-ad07-272cc481f774",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Dope-Guns-’n-Fucking in the Streets: 1988–1998, Volume 1–11",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "2016-01-15",
+                    "country": "US",
+                    "release-events": [
+                        {
+                            "date": "2016-01-15",
+                            "area": {
+                                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                                "name": "United States",
+                                "sort-name": "United States",
+                                "iso-3166-1-codes": [
+                                    "US"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 47,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "0caf1b2a-d89e-4081-af0d-e427d398c939",
+                                    "number": "20",
+                                    "title": "Capital Hillbillies",
+                                    "length": 258000
+                                }
+                            ],
+                            "track-count": 30,
+                            "track-offset": 19
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "d64576bb-a3ab-4640-86e8-57b91b15c0c6",
+            "score": 86,
+            "title": "Hollywood Hillbillies",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Capitol Steps",
+                    "artist": {
+                        "id": "ca9be374-cb61-43d5-bd8e-5e202695dd6f",
+                        "name": "Capitol Steps",
+                        "sort-name": "Capitol Steps",
+                        "aliases": [
+                            {
+                                "sort-name": "The Capitol Steps",
+                                "name": "The Capitol Steps",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            },
+                            {
+                                "sort-name": "Capital Steps",
+                                "name": "Capital Steps",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "58efb7a1-cc22-45b0-a574-c95672f58d24",
+            "score": 86,
+            "title": "Beverly Hillbillies",
+            "length": 73826,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Bobby Morganstein",
+                    "artist": {
+                        "id": "5285bf6f-8cbe-45cd-b9ac-4a77459a8662",
+                        "name": "Bobby Morganstein",
+                        "sort-name": "Morganstein, Bobby"
+                    }
+                }
+            ],
+            "first-release-date": "2008",
+            "releases": [
+                {
+                    "id": "f8fa4e9a-bc0e-4a10-8e10-e8698f2f815b",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "The Complete TV Themes: Party CD #23, Volume 1",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "f54525d4-649a-358d-9e82-3fe2391b27ab",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "The Complete TV Themes Party CD, Volume 1",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "track-count": 36,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "a3a710fa-0712-3638-b744-c7529cc1921a",
+                                    "number": "9",
+                                    "title": "Beverly Hillbillies",
+                                    "length": 73826
+                                }
+                            ],
+                            "track-count": 36,
+                            "track-offset": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "c26435b2-bf6f-49f3-af2f-ab91511fe79d",
+            "score": 86,
+            "title": "Melbourne Hillbillies",
+            "length": 21000,
+            "disambiguation": "Rehearsal Demo 1995",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Warsore",
+                    "artist": {
+                        "id": "2b4f45b3-6e15-41df-bce8-11eca2a7aae2",
+                        "name": "Warsore",
+                        "sort-name": "Warsore",
+                        "disambiguation": "Australian grindcore"
+                    }
+                }
+            ],
+            "first-release-date": "2003",
+            "releases": [
+                {
+                    "id": "37ce4da4-e27b-4203-a9fe-195307ca55b8",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Re-Opened Wound",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "92b66156-d798-3184-a32b-186759871ebc",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Re-Opened Wound",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "2003",
+                    "country": "AU",
+                    "release-events": [
+                        {
+                            "date": "2003",
+                            "area": {
+                                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                                "name": "Australia",
+                                "sort-name": "Australia",
+                                "iso-3166-1-codes": [
+                                    "AU"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 65,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "20b601f7-c690-3de3-9454-486fcd9d13d4",
+                                    "number": "22",
+                                    "title": "Melbourne Hillbillies",
+                                    "length": 21000
+                                }
+                            ],
+                            "track-count": 65,
+                            "track-offset": 21
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "f766f1d7-70de-4860-bce5-c988a0956032",
+            "score": 86,
+            "title": "Melbourne Hillbillies",
+            "length": 23000,
+            "disambiguation": "Bootleg Tape September 1995",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Warsore",
+                    "artist": {
+                        "id": "2b4f45b3-6e15-41df-bce8-11eca2a7aae2",
+                        "name": "Warsore",
+                        "sort-name": "Warsore",
+                        "disambiguation": "Australian grindcore"
+                    }
+                }
+            ],
+            "first-release-date": "2003",
+            "releases": [
+                {
+                    "id": "37ce4da4-e27b-4203-a9fe-195307ca55b8",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Re-Opened Wound",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "92b66156-d798-3184-a32b-186759871ebc",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Re-Opened Wound",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "2003",
+                    "country": "AU",
+                    "release-events": [
+                        {
+                            "date": "2003",
+                            "area": {
+                                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                                "name": "Australia",
+                                "sort-name": "Australia",
+                                "iso-3166-1-codes": [
+                                    "AU"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 65,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "0ac77352-bc8e-3414-803b-e823cca06a09",
+                                    "number": "42",
+                                    "title": "Melbourne Hillbillies",
+                                    "length": 23000
+                                }
+                            ],
+                            "track-count": 65,
+                            "track-offset": 41
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fc196ac9-7e64-4bf8-872c-70c0d933b024",
+            "score": 86,
+            "title": "Melbourne Hillbillies",
+            "length": 21000,
+            "disambiguation": "Live at Central Club 1996",
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Warsore",
+                    "artist": {
+                        "id": "2b4f45b3-6e15-41df-bce8-11eca2a7aae2",
+                        "name": "Warsore",
+                        "sort-name": "Warsore",
+                        "disambiguation": "Australian grindcore"
+                    }
+                }
+            ],
+            "first-release-date": "2003",
+            "releases": [
+                {
+                    "id": "37ce4da4-e27b-4203-a9fe-195307ca55b8",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Re-Opened Wound",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "92b66156-d798-3184-a32b-186759871ebc",
+                        "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Re-Opened Wound",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Compilation"
+                        ],
+                        "secondary-type-ids": [
+                            "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+                        ]
+                    },
+                    "date": "2003",
+                    "country": "AU",
+                    "release-events": [
+                        {
+                            "date": "2003",
+                            "area": {
+                                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                                "name": "Australia",
+                                "sort-name": "Australia",
+                                "iso-3166-1-codes": [
+                                    "AU"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 65,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "f4ccfc05-4c1d-3fb4-86c3-7cca20cae694",
+                                    "number": "64",
+                                    "title": "Melbourne Hillbillies",
+                                    "length": 21000
+                                }
+                            ],
+                            "track-count": 65,
+                            "track-offset": 63
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "79d800a4-0871-43ad-bd8b-da8f0c74d503",
+            "score": 86,
+            "title": "Beverly Hillbillies",
+            "length": 327000,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "The Beat Daddys",
+                    "artist": {
+                        "id": "8a802e8d-2ad6-40eb-8fc2-ad883aa5223d",
+                        "name": "The Beat Daddys",
+                        "sort-name": "Beat Daddys, The"
+                    }
+                }
+            ],
+            "first-release-date": "2007",
+            "releases": [
+                {
+                    "id": "526c172f-d69f-4957-aefc-0f722c76ed7c",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Live at the Quincy Blues Fest 2007",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "3d08b7b6-ebb7-422d-af15-104ae885b9bb",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Live at the Quincy Blues Fest 2007",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "date": "2008",
+                    "country": "XW",
+                    "release-events": [
+                        {
+                            "date": "2008",
+                            "area": {
+                                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                                "name": "[Worldwide]",
+                                "sort-name": "[Worldwide]",
+                                "iso-3166-1-codes": [
+                                    "XW"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 14,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "Digital Media",
+                            "track": [
+                                {
+                                    "id": "a57f45fd-38c3-3d34-91c6-2d00e26235ff",
+                                    "number": "4",
+                                    "title": "Beverly Hillbillies",
+                                    "length": 327000
+                                }
+                            ],
+                            "track-count": 14,
+                            "track-offset": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "160138d9-8577-4119-af79-2a999837202d",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Live at the Quincy Blues Fest 2007",
+                    "status": "Official",
+                    "release-group": {
+                        "id": "3d08b7b6-ebb7-422d-af15-104ae885b9bb",
+                        "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Live at the Quincy Blues Fest 2007",
+                        "primary-type": "Album",
+                        "secondary-types": [
+                            "Live"
+                        ],
+                        "secondary-type-ids": [
+                            "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+                        ]
+                    },
+                    "track-count": 14,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "517fffea-6874-4b05-94a5-6c3ccf178226",
+                                    "number": "4",
+                                    "title": "Beverly Hillbillies",
+                                    "length": 327000
+                                }
+                            ],
+                            "track-count": 14,
+                            "track-offset": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5d75a372-79e3-40de-8520-c5d40d7547ae",
+            "score": 86,
+            "title": "Kunming Hillbillies",
+            "length": 437748,
+            "video": null,
+            "artist-credit": [
+                {
+                    "name": "Québec Redneck Bluegrass Project",
+                    "artist": {
+                        "id": "f344bcde-7174-491f-9026-aa0e9a75d40f",
+                        "name": "Québec Redneck Bluegrass Project",
+                        "sort-name": "Québec Redneck Bluegrass Project",
+                        "aliases": [
+                            {
+                                "sort-name": "QRBP",
+                                "name": "QRBP",
+                                "locale": null,
+                                "type": null,
+                                "primary": null,
+                                "begin-date": null,
+                                "end-date": null
+                            }
+                        ]
+                    }
+                }
+            ],
+            "first-release-date": "2013-01-01",
+            "releases": [
+                {
+                    "id": "79bab856-ca1b-4049-b27e-86e7e91e1fe1",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Scandales & bonne humeur",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Québec Redneck Bluegrass Project",
+                            "artist": {
+                                "id": "f344bcde-7174-491f-9026-aa0e9a75d40f",
+                                "name": "Québec Redneck Bluegrass Project",
+                                "sort-name": "Québec Redneck Bluegrass Project"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "522c52c9-f03e-4cca-933f-593abb36374b",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Scandales & bonne humeur",
+                        "primary-type": "Album"
+                    },
+                    "date": "2013-01-01",
+                    "country": "XW",
+                    "release-events": [
+                        {
+                            "date": "2013-01-01",
+                            "area": {
+                                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                                "name": "[Worldwide]",
+                                "sort-name": "[Worldwide]",
+                                "iso-3166-1-codes": [
+                                    "XW"
+                                ]
+                            }
+                        }
+                    ],
+                    "track-count": 13,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "Digital Media",
+                            "track": [
+                                {
+                                    "id": "f45d0e16-0d30-4298-9df2-7e926d4d69e8",
+                                    "number": "4",
+                                    "title": "Kunming Hillbillies",
+                                    "length": 437748
+                                }
+                            ],
+                            "track-count": 13,
+                            "track-offset": 3
+                        }
+                    ]
+                },
+                {
+                    "id": "578f575b-fb01-4ca5-a6e1-d8949602df33",
+                    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+                    "count": 1,
+                    "title": "Scandales & Bonne Humeur",
+                    "status": "Official",
+                    "artist-credit": [
+                        {
+                            "name": "Québec Redneck Bluegrass Project",
+                            "artist": {
+                                "id": "f344bcde-7174-491f-9026-aa0e9a75d40f",
+                                "name": "Québec Redneck Bluegrass Project",
+                                "sort-name": "Québec Redneck Bluegrass Project"
+                            }
+                        }
+                    ],
+                    "release-group": {
+                        "id": "522c52c9-f03e-4cca-933f-593abb36374b",
+                        "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+                        "title": "Scandales & bonne humeur",
+                        "primary-type": "Album"
+                    },
+                    "track-count": 13,
+                    "media": [
+                        {
+                            "position": 1,
+                            "format": "CD",
+                            "track": [
+                                {
+                                    "id": "3f29aca3-3542-414e-a00c-41faf2f1695c",
+                                    "number": "4",
+                                    "title": "Kunming Hillbillies",
+                                    "length": 437760
+                                }
+                            ],
+                            "track-count": 13,
+                            "track-offset": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
