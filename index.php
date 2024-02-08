@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
+    <!-- modification -->
     <div id="logo">
         <img src="./assets/img/template (2).png" alt="">
     </div>
