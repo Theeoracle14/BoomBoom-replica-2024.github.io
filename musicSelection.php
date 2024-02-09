@@ -55,7 +55,7 @@ if (isset($_POST['email'])) {
     <div id="result"></div>
     <div id="titres" style="border: 1px purple solid;"></div>
     <form action="registerend.php" method="post" name="registerend">
-        <input type="hidden" name="email" value="<?= $email ?>">
+        <input type="hidden" name="email" value="<?= $email ?>"> 
         <input type="hidden" name="titre1">
         <input type="hidden" name="titre2">
         <input type="hidden" name="titre3">

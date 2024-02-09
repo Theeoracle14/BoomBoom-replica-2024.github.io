@@ -21,7 +21,6 @@ if (isset($_POST["submitted"])) {
         $passwordVerif = $results['password']; //mot de passe hashé qui vient de ma bdd
         if (password_verify($password, $passwordVerif)) {
             header("Location: match.php?email=$email");
-            
         } else {
             $error = "Casse toi d'ici!!!!!!!!!!!!!!!!!!!!";
         }
@@ -42,6 +41,9 @@ if (isset($_POST["submitted"])) {
 </head>
 
 <body>
+    <header>
+        <?php include("./inc/menu.php"); ?>
+    </header>
     hello world
 
     <?php

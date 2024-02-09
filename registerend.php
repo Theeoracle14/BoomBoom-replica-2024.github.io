@@ -12,6 +12,7 @@ $rq = "UPDATE `user` SET `titre1`='$titre1',`titre2`='$titre2',`titre3`='$titre3
 // securité
 $update = $pdo->prepare($rq);
 $update->execute();
+header("Location: ./match.php?email=".$email);
 ?>
 
 
